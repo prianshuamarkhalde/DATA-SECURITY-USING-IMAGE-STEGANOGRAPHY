@@ -10,5 +10,9 @@ This project implements a data security system using image steganography in Pyth
 ## Installation
 Install all the necessary packages.
 
+## Usage
+Run the code and give the provided "logo" file as the input for steganography.
+Can use any image but the name must be logo.
+
 ## Contact
 mail : prianshukhalde04@gmail.com
