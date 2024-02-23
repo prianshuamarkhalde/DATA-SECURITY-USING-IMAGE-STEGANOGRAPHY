@@ -1,4 +1,4 @@
-# Data Security using Image Steganography
+# DATA SECURITY USING IMAGE STEGANOGRAPHY
 
 ## Project Description
 This project implements a data security system using image steganography in Python. The main goal is to hide sensitive data within images in such a way that it is undetectable to the naked eye.
