@@ -14,5 +14,8 @@ Install all the necessary packages.
 Run the code and give the provided "logo" file as the input for steganography.
 Can use any image but the name must be logo.
 
+## Extra
+"ImgStegano_GUI_DataFlair" is the extra project in python which runs the same image steganography type.
+
 ## Contact
 mail : prianshukhalde04@gmail.com
